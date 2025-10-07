@@ -15,7 +15,7 @@ def dolar():
 janela = tk.Tk()
 
 janela.geometry('2500x500')
-janela.title('Aula04 - Tkinter')
+janela.title('Aula05 - Tkinter com API')
 janela.configure(bg='#0FC2C0')
 
 titulo = tk.Label(janela, text ='Conversor de Reais para Dólar', font =('Verdana', 16), fg= '#023535', bg ='#015958')
