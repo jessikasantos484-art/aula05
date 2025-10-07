@@ -1,5 +1,8 @@
 import tkinter as tk
+
+# Fução que consome uma api publica
 from moeda import apidolar
+
 
 def dolar():
     cotacao = float(apidolar())
